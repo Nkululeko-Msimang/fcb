@@ -1,6 +1,6 @@
 # Calculator
 
-Calculator that takes in a list of csv values and returns the sum ,average and standard deviation.
+Calculator that takes in a list of csv values and returns the sum, average and standard deviation.
 
 To install the app use the command:
 	npm i
